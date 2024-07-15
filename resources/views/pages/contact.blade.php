@@ -24,7 +24,7 @@
                 <h2 class="text-2xl font-bold text-gray-800 mb-2">Contact Information</h2>
                 <p class="text-gray-700 mb-4">
                     Phone: (123) 456-7890<br>
-                    Email: <a href="mailto:info@mycompany.com" class="text-blue-500 hover:underline">info@mycompany.com</a>
+                    Email: <a href="mailto:info@mycompany.com" class="text-blue-500 hover:underline">mathewjeromecarillo@gmail.com</a>
                 </p>
                 <h3 class="text-xl font-semibold text-gray-800 mb-2">Follow Us</h3>
                 <p class="text-gray-700">
